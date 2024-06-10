@@ -52,6 +52,7 @@ npm run dev
 ## Contribuição
 
 Sinta-se à vontade para contribuir com este projeto. Você pode abrir uma issue para relatar problemas ou solicitar novas funcionalidades. Além disso, pull requests são bem-vindos!
+
 ------------------------------------------------------------------
 Obrigada!
 
